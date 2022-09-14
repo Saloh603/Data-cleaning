@@ -8,7 +8,7 @@ I had a hard time getting gandaf to work properly, but I realized that I don't n
 I was assigned the task of sorting random files. It was necessary to remove unnecessary elements from them.
 
 ## Installation
-python my_m_and_a.py and you will get one .db and one .csv folders.
+This code will output your unsorted files in your desired formats (.db or .csv)
 
 ## Usage
 merged_csv = my_m_and_a(content_database_1, content_database_2, content_database_3)
