@@ -2,6 +2,7 @@
 ***
 
 ## Task
+__Removing unnecessary elements from data, preparing it for data visualization.__
 I had a hard time getting gandaf to work properly, but I realized that I don't need that solution. I think the important thing is that I have released the request for the project, so I ask you not to reject me.
 
 ## Description
